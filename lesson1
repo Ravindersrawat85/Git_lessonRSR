@@ -1,4 +1,6 @@
 LEsson 1
 how to initiate git on linux machine
 MKDIR <somename> 'to add a directory'
-
+go to directory path
+git init  'this add directory as git local repo'
+
